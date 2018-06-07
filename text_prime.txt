@@ -1,4 +1,4 @@
-print('Hello world')
-print('Hello everyone')
-print('qwert')
-print('lession_5')
+print('Hello world');
+print('Hello everyone');
+print('qwert');
+print('lession_5');
