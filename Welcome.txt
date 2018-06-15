@@ -2,4 +2,5 @@ print('welcome')
 print('fsdbk')
 print('Вторая ветка')
 print('Продолжаем работу')
+print('Привет из работы')
 
